@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-date-picker3/static/css/main.5aa4937e.css",
-    "main.js": "/react-date-picker3/static/js/main.a96ab463.js",
+    "main.css": "/react-date-picker3/static/css/main.bdcc8324.css",
+    "main.js": "/react-date-picker3/static/js/main.75ffb27c.js",
     "index.html": "/react-date-picker3/index.html",
-    "main.5aa4937e.css.map": "/react-date-picker3/static/css/main.5aa4937e.css.map",
-    "main.a96ab463.js.map": "/react-date-picker3/static/js/main.a96ab463.js.map"
+    "main.bdcc8324.css.map": "/react-date-picker3/static/css/main.bdcc8324.css.map",
+    "main.75ffb27c.js.map": "/react-date-picker3/static/js/main.75ffb27c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aa4937e.css",
-    "static/js/main.a96ab463.js"
+    "static/css/main.bdcc8324.css",
+    "static/js/main.75ffb27c.js"
   ]
 }
